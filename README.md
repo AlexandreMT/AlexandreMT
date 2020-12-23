@@ -21,9 +21,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/AlexandreMT)](https://github.com/AlexandreMT)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/AlexandreMT)](https://gitlab.com/AlexandreMT) 
 
-### 🏆 Github Status
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=alexandremt)
-
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/alexandremrsmts)
 - [LinkedIn](https://www.linkedin.com/in/alexandremt/)
